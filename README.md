@@ -198,7 +198,7 @@ MIT
 ## 📬 Contact
 
 - **Author:** Shourya012
-- **Email:** your.email@example.com
+- **Email:** shouryakkapooremail@example.com
 - **GitHub:** [Shourya012](https://github.com/Shourya012)
 
 ---
